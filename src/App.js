@@ -184,8 +184,8 @@ const App = () => {
                 <Zap className="w-6 h-6 text-white" />
               </div>
               <div>
-                <h1 className="text-2xl font-bold text-gray-900">IoT Grazing System</h1>
-                <p className="text-sm text-gray-500">Real-time Animal Monitoring Dashboard</p>
+                <h1 className="text-2xl font-bold text-gray-900">Grazing System</h1>
+                {/* <p className="text-sm text-gray-500">Real-time Animal Monitoring Dashboard</p> */}
               </div>
             </div>
             <div className="flex items-center space-x-4">
